@@ -14,7 +14,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/damianiandrea/mongodb-nats-connector/test/harness"
+	"github.com/context-labs/mongodb-nats-connector/test/harness"
 )
 
 func TestConnectorObservability(t *testing.T) {

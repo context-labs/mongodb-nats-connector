@@ -10,7 +10,7 @@ import (
 
 	"github.com/nats-io/nats.go"
 
-	"github.com/damianiandrea/mongodb-nats-connector/internal/server"
+	"github.com/context-labs/mongodb-nats-connector/internal/server"
 )
 
 const (

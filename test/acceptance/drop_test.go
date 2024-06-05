@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/damianiandrea/mongodb-nats-connector/test/harness"
+	"github.com/context-labs/mongodb-nats-connector/test/harness"
 )
 
 func TestMongoDropCollection(t *testing.T) {

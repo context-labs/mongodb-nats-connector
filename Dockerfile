@@ -1,7 +1,7 @@
 # syntax=docker/dockerfile:1
 
 FROM golang:1.22-alpine AS build
-WORKDIR /go/src/github.com/damianiandrea/mongodb-nats-connector
+WORKDIR /go/src/github.com/context-labs/mongodb-nats-connector
 COPY go.* ./
 RUN go mod download
 COPY . .

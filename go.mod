@@ -1,4 +1,4 @@
-module github.com/damianiandrea/mongodb-nats-connector
+module github.com/context-labs/mongodb-nats-connector
 
 go 1.22
 

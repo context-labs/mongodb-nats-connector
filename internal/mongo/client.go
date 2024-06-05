@@ -15,7 +15,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/mongo/readpref"
 
-	"github.com/damianiandrea/mongodb-nats-connector/internal/server"
+	"github.com/context-labs/mongodb-nats-connector/internal/server"
 )
 
 const (

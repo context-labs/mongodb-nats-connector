@@ -15,7 +15,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"go.mongodb.org/mongo-driver/bson"
 
-	"github.com/damianiandrea/mongodb-nats-connector/test/harness"
+	"github.com/context-labs/mongodb-nats-connector/test/harness"
 )
 
 func TestMongoReplaceIsPublishedToNats(t *testing.T) {

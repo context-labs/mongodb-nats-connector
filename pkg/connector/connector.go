@@ -12,10 +12,10 @@ import (
 
 	"golang.org/x/sync/errgroup"
 
-	"github.com/damianiandrea/mongodb-nats-connector/internal/mongo"
-	"github.com/damianiandrea/mongodb-nats-connector/internal/nats"
-	"github.com/damianiandrea/mongodb-nats-connector/internal/prometheus"
-	"github.com/damianiandrea/mongodb-nats-connector/internal/server"
+	"github.com/context-labs/mongodb-nats-connector/internal/mongo"
+	"github.com/context-labs/mongodb-nats-connector/internal/nats"
+	"github.com/context-labs/mongodb-nats-connector/internal/prometheus"
+	"github.com/context-labs/mongodb-nats-connector/internal/server"
 )
 
 const (

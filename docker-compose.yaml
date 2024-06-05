@@ -102,7 +102,7 @@ services:
       - nats1
     build:
       context: .
-    image: damianiandrea/mongodb-nats-connector:latest
+    image: abeatkuzco/mongodb-nats-connector:latest
     container_name: connector
     networks:
       - connector-net

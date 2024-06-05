@@ -41,6 +41,6 @@ changelog:
 dockers:
   - 
     image_templates:
-      - "damianiandrea/mongodb-nats-connector:latest"
-      - "damianiandrea/mongodb-nats-connector:{{ .Tag }}"
+      - "abeatkuzco/mongodb-nats-connector:latest"
+      - "abeatkuzco/mongodb-nats-connector:{{ .Tag }}"
     dockerfile: Dockerfile.release

@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/damianiandrea/mongodb-nats-connector/internal/config"
-	"github.com/damianiandrea/mongodb-nats-connector/pkg/connector"
+	"github.com/context-labs/mongodb-nats-connector/internal/config"
+	"github.com/context-labs/mongodb-nats-connector/pkg/connector"
 )
 
 const defaultConfigFileName = "connector.yaml"

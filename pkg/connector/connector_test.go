@@ -13,8 +13,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/damianiandrea/mongodb-nats-connector/internal/mongo"
-	"github.com/damianiandrea/mongodb-nats-connector/internal/nats"
+	"github.com/context-labs/mongodb-nats-connector/internal/mongo"
+	"github.com/context-labs/mongodb-nats-connector/internal/nats"
 )
 
 func TestNew(t *testing.T) {
