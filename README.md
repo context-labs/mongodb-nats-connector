@@ -1,4 +1,4 @@
-# MongoDB-NATS Connector
+# MongoDB-NATS Connector.
 
 ![License](https://img.shields.io/github/license/damianiandrea/mongodb-nats-connector)
 ![CI](https://github.com/damianiandrea/mongodb-nats-connector/actions/workflows/ci.yml/badge.svg)
